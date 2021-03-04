@@ -12,10 +12,10 @@
     <h3 align="left">Languages and Tools:</h3>
 
     <p align="left" style="display:grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px; text-align: center;">
-      <a href="https://www.arduino.cc/" target="_blank">
+      <a href="https://www.php.net/" target="_blank">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-          alt="arduino"
+          src="https://cdn.worldvectorlogo.com/logos/php.svg"
+          alt="php"
           width="40"
           height="40"
         />
@@ -84,10 +84,10 @@
           height="40"
         />
       </a>
-      <a href="https://www.gatsbyjs.com/" target="_blank">
+      <a href="https://www.codeigniter.com/" target="_blank">
         <img
-          src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-          alt="gatsby"
+          src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
+          alt="codeigniter"
           width="40"
           height="40"
         />
@@ -127,10 +127,10 @@
           height="40"
         />
       </a>
-      <a href="https://jestjs.io" target="_blank">
+      <a href="https://laravel.com" target="_blank">
         <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
+          src="https://laravel.com/img/logomark.min.svg"
+          alt="laravel"
           width="40"
           height="40"
         />
@@ -143,10 +143,10 @@
           height="40"
         />
       </a>
-      <a href="https://mariadb.org/" target="_blank">
+      <a href="https://postgresql.org/" target="_blank">
         <img
-          src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-          alt="mariadb"
+          src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"
+          alt="postgresql"
           width="40"
           height="40"
         />
