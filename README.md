@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display:grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px; text-align: center;background-color: #333;padding:10px; border-radius: 6px;">
+<p align="left" class="grid">
   <a href="https://www.php.net/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/php.svg"
