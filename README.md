@@ -11,10 +11,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px; text-align: center;">
+<p align="left" style="display:grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px; text-align: center;background-color: #242424;padding:10px; border-radius: 6px;">
   <a href="https://www.php.net/" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/php.svg"
+      src="https://www.php.net/images/php8/logo_php8.svg"
       alt="php"
       width="40"
       height="40"
@@ -287,10 +287,10 @@
       height="40"
     />
   </a>
-</div>
-
+</p>
+<br>
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=GuiPassoskt&show_icons=true" alt="guipassoskt"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=GuiPassoskt&show_icons=true&theme=tokyonight" alt="guipassoskt"/> 
 </p>
 
 <!--
