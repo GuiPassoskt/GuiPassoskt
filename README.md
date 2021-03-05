@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" class="grid">
+<div style="display:grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px; text-align: center;">
   <a href="https://www.php.net/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/php.svg"
@@ -287,7 +287,7 @@
       height="40"
     />
   </a>
-</p>
+</div>
 
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=GuiPassoskt&show_icons=true" alt="guipassoskt"/> 
