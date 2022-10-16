@@ -66,6 +66,7 @@
       alt="express"
       width="40"
       height="40"
+      style="filter: invert(1);"
     />
   </a>
   <a href="https://www.codeigniter.com/" target="_blank">
