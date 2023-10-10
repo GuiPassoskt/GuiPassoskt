@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **guipassoskt@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
-
 
 <h3 align="left">Languages and Tools:</h3>
 
